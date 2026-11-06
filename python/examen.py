@@ -1,0 +1,11 @@
+a = input ("pon tu nombre:" )
+b = input ("mi cancion:"   ) 
+c = input ("tu color favorito:" ) 
+d = input ("tu comida favorita:"  )
+e =input   ("tu animal favorito:"  )
+
+print ("hola" ,a )
+print ("tu canción favo es" ,b ,"que bueno")
+print ("tu colr favorito es" ,c, "es un color muy bonito")
+print ("tu comida favo es " ,d, "es muy rico ")
+print ("y tu animal favorito es",e," en muyb tierno")
